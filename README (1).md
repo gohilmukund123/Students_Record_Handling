@@ -30,6 +30,7 @@ The program is written in C++ and follows a structured approach to interact with
 6. **Exit Program:**
    - Terminates the program.
 ## Screenshots
+[README (1).md](https://github.com/gohilmukund123/Students_Record_Handling/files/12388128/README.1.md)
 
 
 ## Deployment
