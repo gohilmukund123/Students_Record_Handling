@@ -184,7 +184,7 @@ void updateData(){
                 tempFile << student.semesterNumber << "\n";
             }
             else{
-                tempFile << newData.id << "\n";
+                tempFile << id << "\n";
                 tempFile << newData.name << "\n";
                 tempFile << newData.age << "\n";
                 tempFile << newData.degree << "\n";
