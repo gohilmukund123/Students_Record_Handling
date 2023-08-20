@@ -31,8 +31,7 @@ The program is written in C++ and follows a structured approach to interact with
    - Terminates the program.
 ## Screenshots
 
-
-https://github.com/gohilmukund123/Students_Record_Handling/assets/114324098/b8ac3297-035b-4d81-b937-c948f84308a4
+https://github.com/gohilmukund123/Students_Record_Handling/assets/114324098/1a762ea6-fbfa-47b5-ab7e-69bed3a3ceb2
 
 
 
